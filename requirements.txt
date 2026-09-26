@@ -1,0 +1,12 @@
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+pocketsphinx>=5.0.4
+openpyxl>=3.1.5
+wikipedia>=1.4.0
+pyjokes>=0.6.0
+pyaudio>=0.2.14
+Pillow>=10.0.0
+requests>=2.31.0
+gTTS>=2.5.1
+openai>=1.0.0
+winshell>=0.1.0

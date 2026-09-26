@@ -1,0 +1,8 @@
+.env
+.venv/
+build/
+dist/
+__pycache__/
+*.py[cod]
+desktop.ini
+AI_YAM/resources/memory.json
